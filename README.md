@@ -3,19 +3,19 @@
 程式語言beginner 上學期開始修python跟R
 希望這學期可以跟上老師的進度 好好學習
 ### week 1 (2/21)
-In Class
+###### In Class
 * Course Introduction
 * Setting Git/GitHub
 * Understand Git and Local/Remote Repository
-At home
+###### At home
 * 學會畫流程圖
 * Hw0 助教code範例流程圖
 * 了解 Github
 ### week 2 (3/7)
-In class
+###### In class
 * Know the application of data science & example in reality
 * Choose the data set topic
-At home
+###### At home
 * 了解Rmarkdown
 * Recap datacamp course: Introduction to Python & Intermediate Python for Data Science
 ### Week3 (3/14)
