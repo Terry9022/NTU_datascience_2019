@@ -42,3 +42,29 @@
 * complete datacamp course: pandas Foundations & Manipulating DataFrames with pandas 
 * homework: 123 (91APP EDA& Data Visualization)
 ### Week6 (4/11)
+###### In class
+* 作業1~3  班上同學分享
+* Machine learning 介紹
+###### At home
+* complete datacamp course: Merging DataFrames with pandas 
+### Week7 (4/18)
+###### In class
+* 文字探勘介紹
+###### At home
+* complete datacamp course: Intro to SQL for Data Science  
+### Week8 (4/25)
+###### In class
+* NER 介紹
+###### At home
+* complete datacamp course: Introduction to Data Visualization with Python 
+### Week9 (5/2)
+###### In class
+* 學長回來分享
+###### At home
+* complete datacamp course: datacamp course:  Natural Language Processing Fundamentals in Python & Advanced NLP with spaCy
+* hw4~6
+### Week10 (5/9)
+###### In class
+
+###### At home
+
