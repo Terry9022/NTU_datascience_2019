@@ -1,5 +1,5 @@
 # NTU-datascience-2019-spring
-##### 大家好 我是戲劇二 B06109022 呂紀廷
+##### 大家好 我是 B06109022 呂紀廷
 ##### 程式語言beginner 上學期開始修python跟R
 ##### 希望這學期可以跟上老師的進度 好好學習
 ##### 知道自己實力沒有班上同學好 因此希望可以在這個學期 完成datacamp的python data scientist career track 以增加資料科學python實力
