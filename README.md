@@ -64,7 +64,19 @@
 * complete datacamp course: datacamp course:  Natural Language Processing Fundamentals in Python & Advanced NLP with spaCy
 * hw4~6
 ### Week10 (5/9)
-###### In class
-
-###### At home
+* datacamp course:   Statistical Thinking in Python (Part 1)(Part2) & Supervised Learning with scikit-learn
+### Week11(5/16)
+* datacamp course:  Machine Learning with the Experts: School Budgets & Web Scraping in Python
+* final project: predict salary using the performance of NBA players(i)
+### Week12(5/23)
+* Datacamp course: Unsupervised Learning in Python
+* final project: predict salary using the performance of NBA players (ii)
+### Week13(5/30)
+* Datacamp course: Deep Learning in Python & Analyzing Police Activity with pandas
+* final project: predict salary using the performance of NBA players (iii)
+### Week14(6/6)
+* Datacamp course: Introduction to Databases in Python
+* final project: predict salary using the performance of NBA players(iv)
+### Week15(6/13) 
+* Final demo
 
