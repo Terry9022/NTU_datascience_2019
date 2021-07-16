@@ -1,5 +1,5 @@
 # NTU-datascience-2019-spring
-##### 大家好 我是 B06109022 呂紀廷
+##### 大家好 我是 B06109022 Terry
 
 
 ### week 1 (2/21)
